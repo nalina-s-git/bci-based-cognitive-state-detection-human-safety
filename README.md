@@ -220,3 +220,15 @@ B.Tech Artificial Intelligence and Data Science
 ## 📜 Purpose
 
 This project was developed as a final-year academic project to enhance the safety of manual scavengers and workers operating in hazardous environments. By monitoring EEG-based cognitive states, the system aims to provide early detection of mental stress, fatigue, panic, and distraction, helping reduce workplace risks and improve human safety.
+
+## 📄 Patent
+
+This project resulted in a published Indian Patent Application.
+
+**Title:** Brain-Computer Interface Based Cognitive State Detection and Alert System for Worker Safety in Hazardous Environments
+
+**Application No.:** 202641080321 A
+
+**Publication Date:** 03 July 2026
+
+The patent publication document is available in the `patent/` folder.
